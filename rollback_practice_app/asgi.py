@@ -1,5 +1,5 @@
 """
-ASGI config for model_form_app project.
+ASGI config for rollback_practice_app project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
